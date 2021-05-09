@@ -1,0 +1,21 @@
+.my-nav-link {
+    background-color: #1d75cf;
+    color: white;
+    border-radius: 0px !important;
+}
+
+.my-nav-link:hover {
+    color: white;
+    opacity: 0.8;
+}
+
+.my-nav-link.my-active {
+    font-weight: 800;
+}
+
+.my-navbar > .my-nav-link {
+    border-right: 1px solid #3190ee;
+}
+.banner-img {
+    width: 100%;
+}
